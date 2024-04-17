@@ -66,8 +66,7 @@
               "RelativeToolTip": "GeometryApp_Tests\\Rectangle_Tests.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAADwvxsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T00:09:16.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:09:16.83Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "GeometryApp_Tests\\Square_Tests.cs",
               "ViewState": "AQIAABEAAAAAAAAAAADwvxwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T00:08:56.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:08:56.338Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "GeometryApp_Library\\Rectangle.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T23:14:43.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T23:14:43.561Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "GeometryApp\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T22:29:16.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T22:29:16.168Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "GeometryApp_Library\\IShape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T23:13:21.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T23:13:21.452Z"
             },
             {
               "$type": "Document",
@@ -131,8 +126,7 @@
               "RelativeToolTip": "GeometryApp_Library\\Square.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T23:14:16.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T23:14:16.946Z"
             },
             {
               "$type": "Document",
@@ -142,7 +136,7 @@
               "RelativeDocumentMoniker": "GeometryApp_Library\\Triangle.cs",
               "ToolTip": "D:\\MAPD\\Modular Development\\Geometry_App\\GeometryApp_Library\\Triangle.cs",
               "RelativeToolTip": "GeometryApp_Library\\Triangle.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T23:14:31.121Z",
               "EditorCaption": ""
@@ -157,34 +151,31 @@
               "RelativeToolTip": "GeometryApp_Tests\\Triangle_Tests.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAADwvxgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T00:09:37.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:09:37.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GeometryApp_Library",
+              "Title": "GeometryApp_Library.csproj",
               "DocumentMoniker": "D:\\MAPD\\Modular Development\\Geometry_App\\GeometryApp_Library\\GeometryApp_Library.csproj",
               "RelativeDocumentMoniker": "GeometryApp_Library\\GeometryApp_Library.csproj",
               "ToolTip": "D:\\MAPD\\Modular Development\\Geometry_App\\GeometryApp_Library\\GeometryApp_Library.csproj",
               "RelativeToolTip": "GeometryApp_Library\\GeometryApp_Library.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T00:57:20.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:57:20.152Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "GeometryApp_Tests",
+              "Title": "GeometryApp_Tests.csproj",
               "DocumentMoniker": "D:\\MAPD\\Modular Development\\Geometry_App\\GeometryApp_Tests\\GeometryApp_Tests.csproj",
               "RelativeDocumentMoniker": "GeometryApp_Tests\\GeometryApp_Tests.csproj",
               "ToolTip": "D:\\MAPD\\Modular Development\\Geometry_App\\GeometryApp_Tests\\GeometryApp_Tests.csproj",
               "RelativeToolTip": "GeometryApp_Tests\\GeometryApp_Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-16T22:58:34.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T22:58:34.692Z"
             }
           ]
         }
