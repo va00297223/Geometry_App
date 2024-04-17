@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GeometryApp_Library/1.0.0": {
+        "runtime": {
+          "GeometryApp_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeometryApp_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
